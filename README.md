@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GuruYoda
+- 👋 Hi, I’m Gursimran Singh Saluja
 - 👀 I’m interested in Numerical Methods, Optimization Techniques, Machine Learning 
 - 🌱 I’m currently learning Data Science for ML
 - 💞️ I’m looking to collaborate on simple ML projects
