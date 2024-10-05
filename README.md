@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gursimran Singh Saluja
 - 👀 I’m interested in Data Science & AI 
-- 🌱 I’m currently learning Data Science for ML
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me just mail me at gursimransinghsaluja@gmail.com
 
 <!---
