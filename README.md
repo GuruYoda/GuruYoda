@@ -17,38 +17,6 @@ Currently, I’m focused on next-generation AI systems:
 
 ---
 
-## 🔬 What I Work On
-
-### ⚙️ Applied Machine Learning
-- Surrogate modeling for engineering simulations  
-- Feature engineering from CAD and simulation data  
-- Model validation, generalization, and deployment  
-
-### 🤖 AI Systems (LLMs + Agents)
-- Building RAG pipelines for domain-specific knowledge retrieval  
-- Designing AI agents using LangChain & LangGraph  
-- Multi-step reasoning systems with tool calling  
-- Embeddings, vector search, and semantic retrieval  
-
----
-
-## 🧩 Featured Project
-
-### 🛠️ AI Engineering Copilot (RAG + Agents)
-
-Built an AI-powered copilot for engineering workflows that enables intelligent retrieval and reasoning over simulation and design data.
-
-**Key Features:**
-- 📄 RAG pipeline for semantic search across engineering documents  
-- 🧠 LLM-based reasoning for contextual insights  
-- 🔁 Agent workflows (LangGraph) for multi-step decision-making  
-- 🔎 Embeddings + vector database for efficient retrieval  
-
-**Tech Stack:**
-`Python` · `LangChain` · `LangGraph` · `FAISS/Chroma` · `OpenAI/Llama`
-
----
-
 ## 🏗️ Tech Stack
 
 ### Core
