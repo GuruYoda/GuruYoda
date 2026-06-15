@@ -42,7 +42,7 @@ Currently, I’m focused on next-generation AI systems:
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gursimran-s-s/)
-- 📂 GitHub Projects coming soon...
+- 📂 GitHub Projects in Agentic AI and RAG available
 
 ---
 
